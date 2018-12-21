@@ -3,7 +3,7 @@
 refinerisk is an R package providing functions for risk performance and prevention outcome analytics purposes.
 
 
-| &nbsp; &nbsp; &nbsp; &nbsp; Dynamic Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Dynamic Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |--------------------|--------------------|
 | [![CircleCI](https://circleci.com/bb/j4nb00n/refinerisk.svg?style=svg&circle-token=e503b92288374c9cc83a04f39416086da0c65f6c)](https://circleci.com/bb/j4nb00n/refinerisk) | CircleCI Continuous Integration Status |
 | [![Run Status](https://api.shippable.com/projects/5c13d1cee462ca07005b9199/badge?branch=master)](https://app.shippable.com/bitbucket/j4nb00n/refinerisk/dashboard) | Shippable Continuous Integration Status |
@@ -14,7 +14,7 @@ refinerisk is an R package providing functions for risk performance and preventi
 
 
 
-| &nbsp; &nbsp; &nbsp; &nbsp; Static Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Static Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |--------------------|--------------------|
 | [![Accessibility](https://img.shields.io/badge/Access-private-red.svg)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Repo Access Level |
 | [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Current Maintenance Status |
