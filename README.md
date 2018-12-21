@@ -8,6 +8,7 @@ refinerisk is an R package providing functions for risk performance and preventi
 | [![CircleCI](https://circleci.com/bb/j4nb00n/refinerisk.svg?style=svg&circle-token=e503b92288374c9cc83a04f39416086da0c65f6c)](https://circleci.com/bb/j4nb00n/refinerisk) | CircleCI Continuous Integration Status |
 | [![Run Status](https://api.shippable.com/projects/5c13d1cee462ca07005b9199/badge?branch=master)](https://app.shippable.com/bitbucket/j4nb00n/refinerisk/dashboard) | Shippable Continuous Integration Status |
 | [![Coverage Badge](https://api.shippable.com/projects/5c13d1cee462ca07005b9199/coverageBadge?branch=master)](https://app.shippable.com/bitbucket/j4nb00n/refinerisk/dashboard) | Shippable Continuous Integration Coverage |
+| [![codecov](https://codecov.io/bb/j4nb00n/refinerisk/branch/master/graph/badge.svg?token=jfUdirvPSS)](https://codecov.io/bb/j4nb00n/refinerisk) | Codecov Code Coverage Status |
 | [![DockerHub Auto or Man](https://img.shields.io/docker/automated/j4nb00n/ci-base.svg)](https://hub.docker.com/r/j4nb00n/ci-base 'DockerHub Autobuild Status') | DockerHub Autobuild Status |
 | [![DockerHub Build Status](https://img.shields.io/docker/build/j4nb00n/ci-base.svg)](https://hub.docker.com/r/j4nb00n/ci-base 'DockerHub Build Status') | DockerHub Build Status |
 | [![DockerHub Pulls](https://img.shields.io/docker/pulls/j4nb00n/ci-base.svg)](https://hub.docker.com/r/j4nb00n/ci-base 'DockerHub Pulls') | DockerHub Pulls |
