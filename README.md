@@ -17,6 +17,7 @@ refinerisk is an R package providing functions for risk performance and preventi
 | Static Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |--------------------|--------------------|
 | [![Accessibility](https://img.shields.io/badge/Access-private-red.svg)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Repo Access Level |
+| [![Lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental) | Lifecycle |
 | [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Current Maintenance Status |
 | [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Current Documentation Status |
 | [![Programming Language](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Used Programming Language |
