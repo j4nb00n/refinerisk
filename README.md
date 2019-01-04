@@ -16,11 +16,11 @@ refinerisk is an R package providing functions for risk performance and preventi
 
 | Static Info &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |--------------------|--------------------|
-| [![Accessibility](https://img.shields.io/badge/Access-private-red.svg)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Repo Access Level |
-| [![Repo Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) | Development Status |
+| [![Accessibility](https://img.shields.io/badge/Access-private-red.svg)](https://github.com/j4nb00n/refinerisk) | Repo Access Level |
 | [![Lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental) | Package Lifecycle Status |
-| [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Current Maintenance Status |
-| [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Current Documentation Status |
-| [![Programming Language](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Used Programming Language |
-| [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/j4nb00n/refinerisk/blob/master/README.md) | Reaching Out |
-
+| [![Repo Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) | Development Status |
+| [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/j4nb00n/refinerisk) | Maintenance Status |
+| [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/j4nb00n/refinerisk) | Documentation Status |
+| [![Programming Language](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://github.com/j4nb00n/refinerisk) | Used Programming Language |
+| [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--1225--6973-green.svg)](http://orcid.org/0000-0002-1225-6973) | Find me on ORCiD |
+| [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/j4nb00n/refinerisk) | Reaching Out |
