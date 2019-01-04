@@ -21,7 +21,6 @@ refinerisk is an R package providing functions for risk performance and preventi
 | [![Repo Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) | Development Status |
 | [![Repo Website](https://img.shields.io/website-up-down-green-red/http/j4nb00n.bitbucket.org.svg)](https://bitbucket.org/j4nb00n/refinerisk) | Remote Repo Status |
 | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/j4nb00n/refinerisk) | Maintenance Status |
-| [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/j4nb00n/refinerisk) | Documentation Status |
 | [![Programming Language](https://img.shields.io/badge/made%20with-R-blue.svg)](https://github.com/j4nb00n/refinerisk) | Used Programming Language |
 | [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--1225--6973-green.svg)](http://orcid.org/0000-0002-1225-6973) | Find me on ORCiD |
 | [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/j4nb00n/refinerisk) | Reaching Out |
