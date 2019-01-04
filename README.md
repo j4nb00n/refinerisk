@@ -19,7 +19,7 @@ refinerisk is an R package providing functions for risk performance and preventi
 | [![Accessibility](https://img.shields.io/badge/access-private-red.svg)](https://github.com/j4nb00n/refinerisk) | Repo Access Level |
 | [![Lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental) | Package Lifecycle Status |
 | [![Repo Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) | Development Status |
-| [![Repo Website](https://img.shields.io/website-up-down-green-red/http/refinerisk.j4nb00n.bitbucket.org.svg)](https://bitbucket.org/j4nb00n/refinerisk) | Remote Repo |
+| [![Repo Website](https://img.shields.io/website-up-down-green-red/http/j4nb00n.bitbucket.org.svg)](https://bitbucket.org/j4nb00n/refinerisk) | Remote Repo |
 | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/j4nb00n/refinerisk) | Maintenance Status |
 | [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/j4nb00n/refinerisk) | Documentation Status |
 | [![Programming Language](https://img.shields.io/badge/made%20with-R-blue.svg)](https://github.com/j4nb00n/refinerisk) | Used Programming Language |
