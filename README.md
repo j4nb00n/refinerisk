@@ -23,4 +23,4 @@ refinerisk is an R package providing functions for risk performance and preventi
 | [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/j4nb00n/refinerisk) | Documentation Status |
 | [![Programming Language](https://img.shields.io/badge/made%20with-R-blue.svg)](https://github.com/j4nb00n/refinerisk) | Used Programming Language |
 | [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--1225--6973-green.svg)](http://orcid.org/0000-0002-1225-6973) | Find me on ORCiD |
-| [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/j4nb00n/refinerisk) | Reaching Out |
+| [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/j4nb00n/refinerisk) | Reaching Out |
