@@ -11,6 +11,7 @@ refinerisk is an R package providing functions for risk performance and preventi
 | [![DockerHub Auto or Man](https://img.shields.io/docker/automated/j4nb00n/ci-base.svg)](https://hub.docker.com/r/j4nb00n/ci-base 'DockerHub Autobuild Status') | DockerHub Autobuild Status |
 | [![DockerHub Build Status](https://img.shields.io/docker/build/j4nb00n/ci-base.svg)](https://hub.docker.com/r/j4nb00n/ci-base 'DockerHub Build Status') | DockerHub Build Status |
 | [![DockerHub Pulls](https://img.shields.io/docker/pulls/j4nb00n/ci-base.svg)](https://hub.docker.com/r/j4nb00n/ci-base 'DockerHub Pulls') | DockerHub Pulls |
+| [![Repo Website](https://img.shields.io/website-up-down-green-red/http/j4nb00n.bitbucket.org.svg)](https://bitbucket.org/j4nb00n/refinerisk) | Remote Repo Status |
 
 
 
@@ -19,7 +20,6 @@ refinerisk is an R package providing functions for risk performance and preventi
 | [![Accessibility](https://img.shields.io/badge/access-private-red.svg)](https://github.com/j4nb00n/refinerisk) | Repo Access Level |
 | [![Lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental) | Package Lifecycle Status |
 | [![Repo Status](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) | Development Status |
-| [![Repo Website](https://img.shields.io/website-up-down-green-red/http/j4nb00n.bitbucket.org.svg)](https://bitbucket.org/j4nb00n/refinerisk) | Remote Repo Status |
 | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/j4nb00n/refinerisk) | Maintenance Status |
 | [![Programming Language](https://img.shields.io/badge/made%20with-R-blue.svg)](https://github.com/j4nb00n/refinerisk) | Used Programming Language |
 | [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--1225--6973-green.svg)](http://orcid.org/0000-0002-1225-6973) | Find me on ORCiD |
